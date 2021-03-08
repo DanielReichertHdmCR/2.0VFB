@@ -1,0 +1,23 @@
+id,name,type,sex,age,function,representation,position
+Hit,Hitzelsperger,0,1,1,1,1,1
+Sch,Schaft,0,1,3,1,2,3
+Kel,Keller,0,1,1,1,3,3
+Vog,Vogt,0,1,3,2,3,1
+Por,Porth,0,1,4,2,3,2
+Adr,Adrion,0,1,4,2,1,3
+Jen,Jenner,0,1,3,2,3,2
+Rai,Rainer,0,1,3,2,3,3
+Sug,Sugg,0,1,5,2,4,3
+Vfb,Vfbstuttgart,1,n/a                               ,n/a,n/a,n/a,n/a
+Ard,Ardrundfunk,1,n/a                               ,n/a,n/a,n/a,n/a
+Bay,Bayrischerrundfunk,1,n/a,n/a,n/a,n/a,n/a
+Nwl,Nachwuchsleistungszentrum,1,n/a,n/a,n/a,n/a,n/a
+Clu,Clubmedien,1,n/a,n/a,n/a,n/a,n/a
+Int,Intesia,1,n/a,n/a,n/a,n/a,n/a
+Fcp,Fcplayfair,1,n/a,n/a,n/a,n/a,n/a
+Dai,Daimler,1,n/a,n/a,n/a,n/a,n/a
+Dfb,Deutscherfußballbund,1,n/a,n/a,n/a,n/a,n/a
+Kae,Kaercher,1,n/a,n/a,n/a,n/a,n/a
+Alf,Alfredkaercherfoerderstiftung,1,n/a,n/a,n/a,n/a,n/a
+Dam,Daimlermobility,1,n/a,n/a,n/a,n/a,n/a
+Bos,Bosch,1,n/a,n/a,n/a,n/a,n/a
